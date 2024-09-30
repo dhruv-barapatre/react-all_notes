@@ -75,6 +75,19 @@ Day 27 : redux Builder https://diwakarsharma.notion.site/Redux-Builder-a47868545
 
 Day 28 : Filter Sort search https://drive.google.com/file/d/1E59lrW3O_obPVRWzUxCZWBlSEibTqPc5/view
 
+searchparams :: https://drive.google.com/file/d/1F2tz8vr2ZBnG63OO2f4KW-pnOq_w-GWR/view
+
+Fromik and Yup :: https://diwakarsharma.notion.site/Formik-and-Yup-58b14e51797a48559e8238cbaa2b284a?pvs=4
+
+Form Validation :: https://drive.google.com/file/d/1vupz8GTXeTwzEmdeQtlA0wafH3rTGLn1/view?usp=sharing    
+project  :: https://drive.google.com/file/d/1fZQcOrxz9IlNOtNjiXe6ZRpBvLee0N-s/view?usp=sharing
+
+usememo :: https://drive.google.com/file/d/17Devhu1oPBWxCU8yGm3cHqU-KoY2PKhi/view?usp=sharing
+
+api hunter solution :: https://drive.google.com/file/d/1jj0vpmIe4IrgiweAF6NsbaFytlnqJlPX/view?usp=sharing
+
+exam :: https://diwakarsharmaa.notion.site/The-Dark-Knight-10abac2578f680d7bb8df0e696ebe830?pvs=4
+
 
 
 
