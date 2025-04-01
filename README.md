@@ -170,3 +170,137 @@ This roadmap provides a detailed, step-by-step guide to mastering React.js, from
     * E-commerce App, Social Media App, Real-time Chat App.
 
 This revised roadmap should provide a more structured and complete learning path.
+
+
+# 🚀 Node.js Roadmap for Beginners to Advanced (2025)
+
+## 🔰 Step 1: JavaScript Basics (If Not Strong)
+Agar tum JavaScript pe strong nahi ho, toh pehle JavaScript ke basics clear karo.
+
+### Important JavaScript Concepts for Node.js:
+- Variables (`let`, `const`, `var`)
+- Functions (`arrow functions`, `callback`, `async/await`)
+- Objects & Arrays (Destructuring, Spread Operator)
+- Promises (`.then()`, `.catch()`, `async/await`)
+- ES6+ Features (`map`, `filter`, `reduce`, `template literals`)
+
+### Resources:
+- [JavaScript.info](https://javascript.info/)
+- [MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- YouTube: **CodeWithHarry, Apna College, Traversy Media**
+
+---
+
+## ⚡ Step 2: Get Started with Node.js
+Ab tum Node.js install karo aur basics samjho.
+
+### Node.js Basics:
+- Install Node.js & npm (`node -v`, `npm -v`)
+- Run JavaScript using Node (`node filename.js`)
+- `require()` vs `import`
+- Modules (`fs`, `path`, `os`, `http`)
+- `package.json` (`npm init -y`)
+- Install dependencies (`npm install express`)
+- `nodemon` for auto-restart
+
+### Resources:
+- [Node.js Official Docs](https://nodejs.org/en/docs)
+- YouTube: **CodeWithHarry, freeCodeCamp**
+
+---
+
+## 🚀 Step 3: Express.js & API Development
+Express.js **Node.js ka sabse popular framework** hai jo APIs banane ke liye use hota hai.
+
+### Learn Express.js Basics:
+- Install Express (`npm install express`)
+- Create Server (`app.listen()`)
+- Middleware (`app.use()`)
+- Routes (`GET, POST, PUT, DELETE`)
+- Query Params & Request Body
+- Error Handling Middleware
+- `dotenv` for Environment Variables
+
+### Resources:
+- YouTube: **Academind, freeCodeCamp**
+- [Express.js Docs](https://expressjs.com/)
+
+---
+
+## 📦 Step 4: Databases (MongoDB, Mongoose)
+Agar tum **MERN Stack developer** ho, toh MongoDB aur Mongoose sikhna zaroori hai.
+
+### Learn MongoDB Basics:
+- Install MongoDB & Connect with Node.js
+- Mongoose Schema & Models (`new mongoose.Schema({})`)
+- CRUD Operations (Create, Read, Update, Delete)
+- Aggregation & Population (`.populate()`)
+- Authentication (JWT + MongoDB)
+
+### Resources:
+- [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) – Free Database Hosting
+- YouTube: **Traversy Media, CodeWithHarry**
+- [Mongoose Docs](https://mongoosejs.com/)
+
+---
+
+## 🔑 Step 5: Authentication (JWT, OAuth)
+User authentication ke liye **JWT (JSON Web Token)** ka use hota hai.
+
+### JWT Authentication Steps:
+- Install JWT (`npm install jsonwebtoken bcryptjs`)
+- User Signup & Login System
+- Generate JWT Token (`jwt.sign()`)
+- Protect Routes (`req.headers.authorization`)
+- Refresh Tokens
+
+### Resources:
+- [JWT Guide](https://jwt.io/)
+- YouTube: **Web Dev Simplified**
+
+---
+
+## 🔗 Step 6: Advanced Concepts
+- File Uploads & Image Handling (`multer`)
+- Caching with Redis (`npm install redis`)
+- Background Jobs with BullMQ
+- WebSockets & Real-Time Apps (`socket.io`)
+- Testing with Jest & Supertest
+- CI/CD (Deploy Node.js Apps with GitHub Actions)
+
+---
+
+## 🌍 Step 7: Deployment & DevOps
+Agar tum **real-world projects deploy karna chahte ho**, toh ye steps follow karo.
+
+### Where to Deploy?
+- **Vercel / Netlify** (For frontend)
+- **Railway / Render / DigitalOcean** (For backend)
+- **AWS / Google Cloud / Azure** (For scalable apps)
+
+### Resources:
+- YouTube: **The Net Ninja, Traversy Media**
+- [Render.com](https://render.com/) – Free Hosting
+
+---
+
+## 🎯 Final Step: Build Real-World Projects!
+Agar tum **job ya freelance** karna chahte ho, toh **projects banane pe focus karo**.
+
+### Project Ideas:
+- User Authentication System (JWT + MongoDB)
+- REST API for Blog (CRUD + Authentication)
+- Real-time Chat App (Node.js + Socket.io)
+- E-commerce Backend (Products, Cart, Payment)
+- URL Shortener (Node.js + MongoDB)
+
+### Resources:
+- YouTube: **JavaScript Mastery, Traversy Media**
+- [Full Stack Open](https://fullstackopen.com/en/) – Free Full-Stack Course
+
+---
+
+## 🎯 Conclusion
+🔥 **Node.js roadmap** ko follow karo, projects banao, aur **job-ready skills** develop karo.  
+💡 Tum MERN Stack Developer ho, toh **React + Node.js + MongoDB** ka best combination use karo.  
+💬 Koi bhi doubt ya extra resources chahiye ho toh batao! 🚀😊
